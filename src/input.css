@@ -1,1 +1,12 @@
 @import "tailwindcss";
+.d {
+    border: 1px solid gray;
+}
+
+.d2 {
+    border: 1px solid #FF4B32;
+}
+
+.d3 {
+    border: 1px solid gray;
+}
